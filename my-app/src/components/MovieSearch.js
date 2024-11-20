@@ -18,3 +18,4 @@ const MovieSearch = ({ setSearchCriteria }) => {
 };
 
 export default MovieSearch;
+
